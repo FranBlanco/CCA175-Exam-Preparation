@@ -1,3 +1,17 @@
+Problema 8
+SQOOP IMPORT
+
+Importar desde mysql las columnas name y description de la tabla products hacia HDFS, 
+los campos delimitado por comas y guardados como archivo de texto.
+
+jdbc:mysql://quickstart:3306/
+
+Base de datos: retail_db
+Tabla: products
+
+User: retail_dba
+Password: cloudera
+
 +---------------------+--------------+------+-----+---------+----------------+
 | Field               | Type         | Null | Key | Default | Extra          |
 +---------------------+--------------+------+-----+---------+----------------+
