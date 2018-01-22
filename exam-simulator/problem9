@@ -1,3 +1,21 @@
+Problema 9
+SQOOP EXPORT
+
+Leer un archivo guardado en HDFS y guardar el contenido en mysql en la tabla products_for_export2
+
+ORIGEN
+/user/cloudera/datasets/products_for_export2
+
 |       1277 |                  57 | Nike Men's USA Away Stadium Replica Soccer Je |                     |            90 | http://images.acmesports.sports/Nike+Men%27s+USA+Away+Stadium+Replica+Soccer+Jersey                       |
 |       1278 |                  57 | adidas Men's Germany Home Soccer Jersey       |                     |            90 | http://images.acmesports.sports/adidas+Men%27s+Germany+Home+Soccer+Jersey                                 |
 |       1279 |                  57 | PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat  |                     |        189.99 | http://images.acmesports.sports/PUMA+Men%27s+evoPOWER+1+Tricks+FG+Soccer+Cleat                            |
+
+
+DESTINO
+jdbc:mysql://quickstart:3306/
+
+Base de datos: retail_db
+Tabla: products_for_export2
+
+User: retail_dba
+Password: cloudera
