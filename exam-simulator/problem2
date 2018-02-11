@@ -1,6 +1,7 @@
 Problema 2
 
-Leer un archivo separado por pipes, ordenar por nombre y apellido ascendente y guardar el resultado en hdfs separado por coma.
+Leer un archivo separado por pipes, ordenar por nombre y apellido 
+ascendente y guardar el resultado en hdfs separado por coma.
 
 ORIGEN
 /user/cloudera/datasets/names-order.txt
