@@ -1,6 +1,7 @@
 Problema 6
 
-Leer dos archivos json y realizar un join que muestre el salario promedio de cada departamento. Guardar en HDFS con compression codec en formato avro.
+Leer dos archivos json y realizar un join que muestre el salario promedio 
+de cada departamento. Guardar en HDFS con compression codec en formato avro.
 
 ORIGEN
 /user/cloudera/datasets/departments.json
