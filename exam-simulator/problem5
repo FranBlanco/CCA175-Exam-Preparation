@@ -1,6 +1,7 @@
 Problema 5
 
-Leer un archivo AVRO, guardar en HDFS el contenido en formato parquet y aplicando el compression codec correspondiente.
+Leer un archivo AVRO, guardar en HDFS el contenido en formato parquet y 
+aplicando el compression codec correspondiente.
 
 ORIGEN
 /user/cloudera/datasets/twitter.avro
