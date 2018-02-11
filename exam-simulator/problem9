@@ -6,9 +6,9 @@ Leer un archivo guardado en HDFS y guardar el contenido en mysql en la tabla pro
 ORIGEN
 /user/cloudera/datasets/products_for_export2
 
-|       1277 |                  57 | Nike Men's USA Away Stadium Replica Soccer Je |                     |            90 | http://images.acmesports.sports/Nike+Men%27s+USA+Away+Stadium+Replica+Soccer+Jersey                       |
-|       1278 |                  57 | adidas Men's Germany Home Soccer Jersey       |                     |            90 | http://images.acmesports.sports/adidas+Men%27s+Germany+Home+Soccer+Jersey                                 |
-|       1279 |                  57 | PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat  |                     |        189.99 | http://images.acmesports.sports/PUMA+Men%27s+evoPOWER+1+Tricks+FG+Soccer+Cleat                            |
+|1277|57|Nike Men's USA Away Stadium Replica Soccer Je||90|http://images.acmesports.sports/Nike+Men%27s+USA+Away+Stadium+Replica+Soccer+Jersey|
+|1278|57|adidas Men's Germany Home Soccer Jersey||90|http://images.acmesports.sports/adidas+Men%27s+Germany+Home+Soccer+Jersey|
+|1279|57|PUMA Men's evoPOWER 1 Tricks FG Soccer Cleat||189.99|http://images.acmesports.sports/PUMA+Men%27s+evoPOWER+1+Tricks+FG+Soccer+Cleat|
 
 
 DESTINO
