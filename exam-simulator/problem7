@@ -1,6 +1,7 @@
 Problema 7
 
-Leer un archivo JSON, realizar un ranking de empleados por salario y guardarlos en HDFS en formato parquet con compression codec snappy.
+Leer un archivo JSON, realizar un ranking de empleados por salario y 
+guardarlos en HDFS en formato parquet con compression codec snappy.
 
 ORIGEN
 /user/cloudera/datasets/employees_to_rank.json
